@@ -5,7 +5,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/pion/logging"
+	"github.com/carrotsong/logging"
 )
 
 type streamSession interface {

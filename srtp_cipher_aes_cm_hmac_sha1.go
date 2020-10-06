@@ -9,7 +9,7 @@ import ( //nolint:gci
 	"encoding/binary"
 	"hash"
 
-	"github.com/pion/rtp"
+	"github.com/carrotsong/rtp"
 )
 
 type srtpCipherAesCmHmacSha1 struct {

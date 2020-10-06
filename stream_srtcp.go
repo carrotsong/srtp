@@ -4,8 +4,8 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/pion/rtcp"
-	"github.com/pion/transport/packetio"
+	"github.com/carrotsong/rtcp"
+	"github.com/carrotsong/transport/packetio"
 )
 
 // Limit the buffer size to 100KB

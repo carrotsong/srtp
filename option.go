@@ -1,7 +1,7 @@
 package srtp
 
 import (
-	"github.com/pion/transport/replaydetector"
+	"github.com/carrotsong/transport/replaydetector"
 )
 
 // ContextOption represents option of Context using the functional options pattern.

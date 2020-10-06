@@ -1,6 +1,6 @@
 package srtp
 
-import "github.com/pion/rtp"
+import "github.com/carrotsong/rtp"
 
 // cipher represents a implementation of one
 // of the SRTP Specific ciphers

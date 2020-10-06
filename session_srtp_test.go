@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pion/rtp"
-	"github.com/pion/transport/test"
+	"github.com/carrotsong/rtp"
+	"github.com/carrotsong/transport/test"
 )
 
 func TestSessionSRTPBadInit(t *testing.T) {

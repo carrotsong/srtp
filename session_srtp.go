@@ -3,8 +3,8 @@ package srtp
 import (
 	"net"
 
-	"github.com/pion/logging"
-	"github.com/pion/rtp"
+	"github.com/carrotsong/logging"
+	"github.com/carrotsong/rtp"
 )
 
 const defaultSessionSRTPReplayProtectionWindow = 64

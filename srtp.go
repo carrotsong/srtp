@@ -2,7 +2,7 @@
 package srtp
 
 import (
-	"github.com/pion/rtp"
+	"github.com/carrotsong/rtp"
 )
 
 func (c *Context) decryptRTP(dst, ciphertext []byte, header *rtp.Header) ([]byte, error) {

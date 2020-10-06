@@ -3,8 +3,8 @@ package srtp
 import (
 	"net"
 
-	"github.com/pion/logging"
-	"github.com/pion/rtcp"
+	"github.com/carrotsong/logging"
+	"github.com/carrotsong/rtcp"
 )
 
 const defaultSessionSRTCPReplayProtectionWindow = 64
